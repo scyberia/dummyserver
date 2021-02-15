@@ -1,0 +1,736 @@
+{
+    "Products": [
+        {
+            "Brand": "Nike",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "640",
+            "Units for qty": "metre",
+            "HSN Code": "3635"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Sandals",
+            "MRP": "696",
+            "Units for qty": "metre",
+            "HSN Code": "3779",
+            "undefined": "Pcs"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Boots",
+            "MRP": "771",
+            "Units for qty": "KG",
+            "HSN Code": "4509",
+            "undefined": "KG"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shoes",
+            "Subcategory": "womens",
+            "product": "Snikkers",
+            "MRP": "932",
+            "Units for qty": "KG",
+            "HSN Code": "4531",
+            "undefined": "metre"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shoes",
+            "Subcategory": "womens",
+            "product": "Sandals",
+            "MRP": "252",
+            "Units for qty": "metre",
+            "HSN Code": "3031"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shoes",
+            "Subcategory": "womens",
+            "product": "Boots",
+            "MRP": "626",
+            "Units for qty": "metre",
+            "HSN Code": "3019"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shoes",
+            "Subcategory": "children",
+            "product": "Snikkers",
+            "MRP": "106",
+            "Units for qty": "Pcs",
+            "HSN Code": "4074"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shoes",
+            "Subcategory": "children",
+            "product": "Sandals",
+            "MRP": "954",
+            "Units for qty": "KG",
+            "HSN Code": "4932"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shoes",
+            "Subcategory": "children",
+            "product": "Boots",
+            "MRP": "100",
+            "Units for qty": "Pcs",
+            "HSN Code": "4370"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shirts",
+            "Subcategory": "mens",
+            "product": "T-shirts",
+            "MRP": "158",
+            "Units for qty": "Pcs",
+            "HSN Code": "3757"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shirts",
+            "Subcategory": "mens",
+            "product": "jackets",
+            "MRP": "356",
+            "Units for qty": "Pcs",
+            "HSN Code": "4849"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shirts",
+            "Subcategory": "mens",
+            "product": "sweatshirts",
+            "MRP": "723",
+            "Units for qty": "Pcs",
+            "HSN Code": "4847"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shirts",
+            "Subcategory": "womens",
+            "product": "T-shirts",
+            "MRP": "958",
+            "Units for qty": "metre",
+            "HSN Code": "4364"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shirts",
+            "Subcategory": "womens",
+            "product": "jackets",
+            "MRP": "267",
+            "Units for qty": "KG",
+            "HSN Code": "3111"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shirts",
+            "Subcategory": "womens",
+            "product": "sweatshirts",
+            "MRP": "784",
+            "Units for qty": "KG",
+            "HSN Code": "3803"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shirts",
+            "Subcategory": "children",
+            "product": "T-shirts",
+            "MRP": "182",
+            "Units for qty": "Pcs",
+            "HSN Code": "4673"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shirts",
+            "Subcategory": "children",
+            "product": "jackets",
+            "MRP": "226",
+            "Units for qty": "metre",
+            "HSN Code": "3817"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Shirts",
+            "Subcategory": "children",
+            "product": "sweatshirts",
+            "MRP": "526",
+            "Units for qty": "KG",
+            "HSN Code": "3746"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Trousers",
+            "Subcategory": "mens",
+            "product": "jeans",
+            "MRP": "966",
+            "Units for qty": "Pcs",
+            "HSN Code": "3545"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Trousers",
+            "Subcategory": "mens",
+            "product": "cargos",
+            "MRP": "897",
+            "Units for qty": "Pcs",
+            "HSN Code": "4558"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Trousers",
+            "Subcategory": "mens",
+            "product": "three-quarters",
+            "MRP": "335",
+            "Units for qty": "Pcs",
+            "HSN Code": "4415"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Trousers",
+            "Subcategory": "womens",
+            "product": "jeans",
+            "MRP": "632",
+            "Units for qty": "KG",
+            "HSN Code": "4955"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Trousers",
+            "Subcategory": "womens",
+            "product": "cargos",
+            "MRP": "876",
+            "Units for qty": "metre",
+            "HSN Code": "4287"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Trousers",
+            "Subcategory": "womens",
+            "product": "three-quarters",
+            "MRP": "455",
+            "Units for qty": "Pcs",
+            "HSN Code": "4282"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Trousers",
+            "Subcategory": "children",
+            "product": "jeans",
+            "MRP": "538",
+            "Units for qty": "KG",
+            "HSN Code": "3996"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Trousers",
+            "Subcategory": "children",
+            "product": "cargos",
+            "MRP": "334",
+            "Units for qty": "Pcs",
+            "HSN Code": "4603"
+        },
+        {
+            "Brand": "Nike",
+            "Category": "Trousers",
+            "Subcategory": "children",
+            "product": "three-quarters",
+            "MRP": "793",
+            "Units for qty": "Pcs",
+            "HSN Code": "3628"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "533",
+            "Units for qty": "KG",
+            "HSN Code": "4138"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Sandals",
+            "MRP": "227",
+            "Units for qty": "metre",
+            "HSN Code": "3322"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Boots",
+            "MRP": "604",
+            "Units for qty": "KG",
+            "HSN Code": "4313"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shoes",
+            "Subcategory": "womens",
+            "product": "Snikkers",
+            "MRP": "406",
+            "Units for qty": "KG",
+            "HSN Code": "3414"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shoes",
+            "Subcategory": "womens",
+            "product": "Sandals",
+            "MRP": "231",
+            "Units for qty": "metre",
+            "HSN Code": "4006"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shoes",
+            "Subcategory": "womens",
+            "product": "Boots",
+            "MRP": "366",
+            "Units for qty": "KG",
+            "HSN Code": "4554"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shoes",
+            "Subcategory": "children",
+            "product": "Snikkers",
+            "MRP": "833",
+            "Units for qty": "Pcs",
+            "HSN Code": "3448"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shoes",
+            "Subcategory": "children",
+            "product": "Sandals",
+            "MRP": "256",
+            "Units for qty": "Pcs",
+            "HSN Code": "4572"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shoes",
+            "Subcategory": "children",
+            "product": "Boots",
+            "MRP": "311",
+            "Units for qty": "Pcs",
+            "HSN Code": "3414"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shirts",
+            "Subcategory": "mens",
+            "product": "T-shirts",
+            "MRP": "200",
+            "Units for qty": "Pcs",
+            "HSN Code": "3939"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shirts",
+            "Subcategory": "mens",
+            "product": "jackets",
+            "MRP": "564",
+            "Units for qty": "Pcs",
+            "HSN Code": "3930"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shirts",
+            "Subcategory": "mens",
+            "product": "sweatshirts",
+            "MRP": "278",
+            "Units for qty": "metre",
+            "HSN Code": "4534"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shirts",
+            "Subcategory": "womens",
+            "product": "T-shirts",
+            "MRP": "111",
+            "Units for qty": "metre",
+            "HSN Code": "4556"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shirts",
+            "Subcategory": "womens",
+            "product": "jackets",
+            "MRP": "311",
+            "Units for qty": "KG",
+            "HSN Code": "4814"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shirts",
+            "Subcategory": "womens",
+            "product": "sweatshirts",
+            "MRP": "414",
+            "Units for qty": "KG",
+            "HSN Code": "3666"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shirts",
+            "Subcategory": "children",
+            "product": "T-shirts",
+            "MRP": "723",
+            "Units for qty": "Pcs",
+            "HSN Code": "4348"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shirts",
+            "Subcategory": "children",
+            "product": "jackets",
+            "MRP": "682",
+            "Units for qty": "Pcs",
+            "HSN Code": "4430"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Shirts",
+            "Subcategory": "children",
+            "product": "sweatshirts",
+            "MRP": "800",
+            "Units for qty": "KG",
+            "HSN Code": "4253"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Trousers",
+            "Subcategory": "mens",
+            "product": "jeans",
+            "MRP": "478",
+            "Units for qty": "Pcs",
+            "HSN Code": "3084"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Trousers",
+            "Subcategory": "mens",
+            "product": "cargos",
+            "MRP": "592",
+            "Units for qty": "metre",
+            "HSN Code": "4319"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Trousers",
+            "Subcategory": "mens",
+            "product": "three-quarters",
+            "MRP": "845",
+            "Units for qty": "KG",
+            "HSN Code": "4867"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Trousers",
+            "Subcategory": "womens",
+            "product": "jeans",
+            "MRP": "878",
+            "Units for qty": "metre",
+            "HSN Code": "4715"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Trousers",
+            "Subcategory": "womens",
+            "product": "cargos",
+            "MRP": "305",
+            "Units for qty": "KG",
+            "HSN Code": "3125"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Trousers",
+            "Subcategory": "womens",
+            "product": "three-quarters",
+            "MRP": "520",
+            "Units for qty": "metre",
+            "HSN Code": "4316"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Trousers",
+            "Subcategory": "children",
+            "product": "jeans",
+            "MRP": "688",
+            "Units for qty": "metre",
+            "HSN Code": "3390"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Trousers",
+            "Subcategory": "children",
+            "product": "cargos",
+            "MRP": "696",
+            "Units for qty": "metre",
+            "HSN Code": "4440"
+        },
+        {
+            "Brand": "Reebok",
+            "Category": "Trousers",
+            "Subcategory": "children",
+            "product": "three-quarters",
+            "MRP": "391",
+            "Units for qty": "Pcs",
+            "HSN Code": "3859"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "555",
+            "Units for qty": "KG",
+            "HSN Code": "4820"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "508",
+            "Units for qty": "metre",
+            "HSN Code": "4382"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "878",
+            "Units for qty": "Pcs",
+            "HSN Code": "4585"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "990",
+            "Units for qty": "KG",
+            "HSN Code": "4520"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "399",
+            "Units for qty": "Pcs",
+            "HSN Code": "3005"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "416",
+            "Units for qty": "metre",
+            "HSN Code": "3440"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "297",
+            "Units for qty": "KG",
+            "HSN Code": "3317"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "412",
+            "Units for qty": "KG",
+            "HSN Code": "4268"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "662",
+            "Units for qty": "metre",
+            "HSN Code": "3296"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "323",
+            "Units for qty": "metre",
+            "HSN Code": "3196"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "268",
+            "Units for qty": "KG",
+            "HSN Code": "3862"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "541",
+            "Units for qty": "KG",
+            "HSN Code": "3570"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "787",
+            "Units for qty": "metre",
+            "HSN Code": "3093"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "452",
+            "Units for qty": "Pcs",
+            "HSN Code": "3130"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "749",
+            "Units for qty": "KG",
+            "HSN Code": "3218"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "255",
+            "Units for qty": "Pcs",
+            "HSN Code": "4103"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "123",
+            "Units for qty": "Pcs",
+            "HSN Code": "3202"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "208",
+            "Units for qty": "KG",
+            "HSN Code": "3879"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "953",
+            "Units for qty": "metre",
+            "HSN Code": "3861"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "620",
+            "Units for qty": "metre",
+            "HSN Code": "3997"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "910",
+            "Units for qty": "Pcs",
+            "HSN Code": "4942"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "443",
+            "Units for qty": "KG",
+            "HSN Code": "4781"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "300",
+            "Units for qty": "Pcs",
+            "HSN Code": "4575"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "593",
+            "Units for qty": "metre",
+            "HSN Code": "4519"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "592",
+            "Units for qty": "KG",
+            "HSN Code": "4377"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "695",
+            "Units for qty": "Pcs",
+            "HSN Code": "3067"
+        },
+        {
+            "Brand": "Adidas",
+            "Category": "Shoes",
+            "Subcategory": "mens",
+            "product": "Snikkers",
+            "MRP": "486",
+            "Units for qty": "metre",
+            "HSN Code": "4729"
+        }
+    ]
+}
